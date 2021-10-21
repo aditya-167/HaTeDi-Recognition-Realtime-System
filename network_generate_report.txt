@@ -10,8 +10,8 @@ c_name             : network
 compression        : None
 quantize           : None
 L2r error          : NOT EVALUATED
-workspace dir      : C:\Users\Israel\AppData\Local\Temp\mxAI_workspace3428864178128582030862631492864741
-output dir         : C:\Users\Israel\.stm32cubemx\stm32ai_output
+workspace dir      : C:\Users\Aditya\AppData\Local\Temp\mxAI_workspace3428864178128582030862631492864741
+output dir         : C:\Users\Aditya\.stm32cubemx\stm32ai_output
 
 model_name         : model
 model_hash         : f7e08a8ca31de8ace403d4470fbfa672
