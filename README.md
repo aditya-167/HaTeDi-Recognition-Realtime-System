@@ -4,6 +4,6 @@
 
 ![](/Images/demo.gif)
 
-### The Model with CTC loss can be tested on synthetic data of handscribed digit as well. (Yet to be tested)
+### The Model with CTC loss can be tested on synthetic data of handscribed digit as well.
 
 ![](/Images/flow.png)
